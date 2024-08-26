@@ -1,6 +1,6 @@
 # c-programming
 ### What is C Programming?
-![c-image](https://github.com/martin-m-kinoti/c-programming/blob/main/c_prog.jpg)
+![c-image](https://github.com/martin-m-kinoti/c-programming/blob/main/c_prog.jpg/)
 
 C programming is a powerful, general-purpose language developed in the early 1970s by Dennis Ritchie. Known for its efficiency and control, C allows direct manipulation of hardware and memory, making it ideal for system-level programming. It serves as the foundation for many other languages like C++, Java, and Python. C is widely used in developing operating systems, embedded systems, compilers, and game development. Its portability and performance make it a popular choice for building high-performance applications, device drivers, network programming, and software for embedded systems.
 
@@ -19,3 +19,7 @@ In C programming, dependencies refer to external files, libraries, or modules th
 
 ### Compiler
 [gcc_compiler](https://gcc.gnu.org/) is used in translating the source code into machine code.
+
+### Sample Programs
+* [program-1](https://github.com/martin-m-kinoti/c-programming/blob/main/program.c)
+* [program-2]()
