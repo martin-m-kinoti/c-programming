@@ -1,6 +1,5 @@
 // list of any 5 numbers
 #include <stdio.h>
-#include <math.h>
 
 int main () {
     int x, numbers[5];
