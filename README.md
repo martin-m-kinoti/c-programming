@@ -22,4 +22,4 @@ In C programming, dependencies refer to external files, libraries, or modules th
 
 ### Sample Programs
 * [program-1](https://github.com/martin-m-kinoti/c-programming/blob/main/program.c)
-* [program-2]()
+* [program-2](https://github.com/martin-m-kinoti/c-programming/blob/main/program2.c)
